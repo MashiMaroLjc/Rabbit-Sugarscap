@@ -32,13 +32,29 @@ Rabbit-Sugarscape的主体流程如下步骤所示
 
 ![开始资源](begin_sugar.jpg)
 
+----
+
 人口开始随机分布
+
 ![开始人口](begin.jpg)
 
+----
+
 迭代后人口集中在资源分布区
+
 ![结果](end.jpg)
 
+----
 
----
+选择一个活到最后的糖人观察其糖分变化
+
+![rich_man](rich_people.jpg)
+
+
+----
+选择一个中途死掉的糖人观察其糖分变化
+![poor_man](poor_people.jpg)
+
+----
 
 更多信息可查阅文档获得。
